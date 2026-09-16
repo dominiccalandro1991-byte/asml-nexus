@@ -1,0 +1,15 @@
+{
+  "repo": "dominiccalandro1991-byte/asml-nexus",
+  "incomplete": true,
+  "missing_dependencies": [
+    "runtime manifest (package.json | index.html | Cargo.toml)"
+  ],
+  "required_build_specs": [
+    "define a build entry (npm run build or static index.html)",
+    "voltcore-heartbeat workflow"
+  ],
+  "file_count": 1,
+  "root_entries": [
+    "README.md"
+  ]
+}
